@@ -1,1 +1,2 @@
 # 9home
+i created a html file in which i created input box and a button and in my js file i get the element of input box by using get element by id and on my button i add a event that onclick my show function should be called and in that function i stored the value of input box in input field value variable using .value then i created a p element in js using .createElement and i stored the input value in p element using p.innerText and for my text to be shown on browser i used append method
